@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <elements>
+    <animationPage>
+        <element>
+            <name>Animation</name>
+            <value>//android.widget.TextView[@text='Animation']</value>
+        </element>
+        <element>
+            <name>HideShowAnimations</name>
+            <value>//android.widget.TextView[@text='Hide-Show Animations']</value>
+        </element>
+        <element>
+            <name>btn0</name>
+            <value>//android.widget.Button[@text='0']</value>
+        </element>
+        <element>
+            <name>btn1</name>
+            <value>//android.widget.Button[@text='1']</value>
+        </element>
+        <element>
+            <name>btn2</name>
+            <value>//android.widget.Button[@text='2']</value>
+        </element>
+        <element>
+            <name>btn3</name>
+            <value>//android.widget.Button[@text='3']</value>
+        </element>
+        <element>
+            <name>showBtn</name>
+            <value>//android.widget.Button[@text='SHOW BUTTONS']</value>
+        </element>
+    </animationPage>
+
+
+    <displayOptionsPage>
+        <element>
+            <name>app</name>
+            <value>//android.widget.TextView[@text='App']</value>
+        </element>
+        <element>
+            <name>actionBar</name>
+            <value>//android.widget.TextView[@text='Action Bar']</value>
+        </element>
+        <element>
+            <name>displayOptions</name>
+            <value>//android.widget.TextView[@text='Display Options']</value>
+        </element>
+        <element>
+            <name>displayTitle</name>
+            <value>//android.widget.Button[@text='DISPLAY_SHOW_TITLE']</value>
+        </element>
+        <element>
+            <name>title</name>
+            <value>//android.widget.TextView[@text='App/Action Bar/Display Options']</value>
+        </element>
+    </displayOptionsPage>
+    </elements>
